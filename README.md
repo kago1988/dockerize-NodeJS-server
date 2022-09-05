@@ -1,4 +1,4 @@
-# Encapsulate a Node.JS server in a docker container 
+# Encapsulate a NodeJS server in a docker container 
 
 This tutorial is inspired by fireship.io and shows how to encapsulate a NodeJS Server in a docker container. 
 
