@@ -2,7 +2,7 @@
 
 This tutorial is inspired by fireship.io and shows how to encapsulate a NodeJS Server in a docker container. 
 
-You can spin the server up locally via 
+You can host the server locally via 
 
 ```
 npm install 
@@ -53,4 +53,4 @@ The command
 docker run -p 5001:8080 <image-id>
 ````
 
-will spin up the docker container. You can observe the result on `localhost:5001`. 
+will host the docker container. You can observe the result on `localhost:5001`. 
